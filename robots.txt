@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rowan-lees.github.io/al-folio/sitemap.xml
+Sitemap: https://rowan-lees.github.io/sitemap.xml
